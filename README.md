@@ -7,6 +7,7 @@
 ### Categories
 
 * [Git](#git)
+* [Linux](#linux)
 * [Mac](#mac)
 * [Python](#python)
 * [tmux](#tmux)
@@ -16,6 +17,9 @@
 
 ### Git 
 
+### Linux
+
+- [Using tcpdump to find a DNS dependency](linux/using-tcpdump-to-find-a-dns-dependency.md)
 
 ### Python
 
