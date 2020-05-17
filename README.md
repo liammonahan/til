@@ -27,6 +27,7 @@
 ### Python
 
 - [Code Profiling in Python](python/code-profiling-in-python.md)
+- [Packaging Python Modules as RPM Files](python/packaging-python-modules-as-rpm-files.md)
 - [UML Diagrams for your Django Apps](python/uml-diagrams-django.md)
 
 ### SQL
