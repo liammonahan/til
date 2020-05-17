@@ -24,3 +24,4 @@
 ### Python
 
 - [Code Profiling in Python](python/code-profiling-in-python.md)
+- [UML Diagrams for your Django Apps](python/uml-diagrams-django.md)
