@@ -10,6 +10,7 @@
 * [Linux](#linux)
 * [Mac](#mac)
 * [Python](#python)
+* [SQL](#sql)
 * [tmux](#tmux)
 * [Vim](#vim)
 
@@ -19,6 +20,7 @@
 
 ### Linux
 
+- [OpenSSL s_client](linux/openssl-sclient.md)
 - [Creating random files of a certain size](linux/random-files-of-a-certain-size.md)
 - [Using tcpdump to find a DNS dependency](linux/using-tcpdump-to-find-a-dns-dependency.md)
 
@@ -26,3 +28,7 @@
 
 - [Code Profiling in Python](python/code-profiling-in-python.md)
 - [UML Diagrams for your Django Apps](python/uml-diagrams-django.md)
+
+### SQL
+
+- [SQL Query Order](sql/query-order.md)
