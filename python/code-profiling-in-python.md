@@ -5,7 +5,4 @@ speeding up tests.  I applied this to the test suite of umldappy and got a
 speedup from 130 seconds to 44 seconds locally with not too much effort.  It
 feels good!  A nice, quick win for the better.
 
-https://ptc-it.de/test-suite-profiling/
-
-+python
-+profiling
+[source](https://ptc-it.de/test-suite-profiling/)
