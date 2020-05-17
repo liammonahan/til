@@ -19,6 +19,7 @@
 
 ### Linux
 
+- [Creating random files of a certain size](linux/random-files-of-a-certain-size.md)
 - [Using tcpdump to find a DNS dependency](linux/using-tcpdump-to-find-a-dns-dependency.md)
 
 ### Python
