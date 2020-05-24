@@ -24,6 +24,10 @@
 - [Creating random files of a certain size](linux/random-files-of-a-certain-size.md)
 - [Using tcpdump to find a DNS dependency](linux/using-tcpdump-to-find-a-dns-dependency.md)
 
+### Mac
+
+- [Mac Software](mac/software.md)
+
 ### Python
 
 - [Code Profiling in Python](python/code-profiling-in-python.md)
