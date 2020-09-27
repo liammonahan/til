@@ -24,7 +24,6 @@
 * [Anki](https://apps.ankiweb.net/) — Notecards
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517) (App Store)
 * [BetterSnapTool](https://folivora.ai/bettersnaptool) or [Magnet](https://magnet.crowdcafe.com/) — Window management
-* Contexts — Fast app switcher
 * Evernote
 * Fantastical (App Store)
 * SelfControl — Limit website screen time
@@ -45,7 +44,7 @@
 ## Misc Utilities
 * Keka — File compression utility
 * KeyboardCleanTool — Block keyboard input while you clean the keyboard
-* SiteSucker
+* SiteSucker (App Store)
 * Skitch
 * Wireshark
 
