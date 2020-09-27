@@ -30,7 +30,6 @@
 * Things (App Store)
 
 ## Developer Tools
-* [Apache Directory Studio](https://directory.apache.org/studio/) — LDAP Browser
 * Docker
 * [iTerm](https://www.iterm2.com/)
 * [Portacle](https://portacle.github.io/) — Common Lisp IDE
@@ -50,5 +49,7 @@
 
 ## Work
 These will only be installed on my work account.
+### UMIACS
+* [Apache Directory Studio](https://directory.apache.org/studio/) — LDAP Browser
 * Slack
 * YubiKey Personalization Tool
