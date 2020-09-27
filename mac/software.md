@@ -18,12 +18,11 @@
 * Pixelmator (App Store)
 * reMarkable
 * Spotify
-* LaTeX
 * Zoom
 
 ## Productivity
 * [Anki](https://apps.ankiweb.net/) — Notecards
-* [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517)
+* [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517) (App Store)
 * [BetterSnapTool](https://folivora.ai/bettersnaptool) or [Magnet](https://magnet.crowdcafe.com/) — Window management
 * Contexts — Fast app switcher
 * Evernote
