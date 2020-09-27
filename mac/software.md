@@ -44,7 +44,7 @@
 * Keka — File compression utility
 * KeyboardCleanTool — Block keyboard input while you clean the keyboard
 * SiteSucker (App Store)
-* Skitch
+* Skitch (App Store)
 * Wireshark
 
 ## Work
