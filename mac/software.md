@@ -22,7 +22,7 @@
 ## Productivity
 * [Anki](https://apps.ankiweb.net/) — Notecards
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517) (App Store)
-* [BetterSnapTool](https://folivora.ai/bettersnaptool) or [Magnet](https://magnet.crowdcafe.com/) — Window management
+* [BetterSnapTool](https://folivora.ai/bettersnaptool) — Window management
 * [Evernote](https://evernote.com/download)
 * Fantastical (App Store)
 * [SelfControl](https://selfcontrolapp.com/) — Limit website screen time
