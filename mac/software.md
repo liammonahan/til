@@ -23,9 +23,9 @@
 * [Anki](https://apps.ankiweb.net/) — Notecards
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517) (App Store)
 * [BetterSnapTool](https://folivora.ai/bettersnaptool) or [Magnet](https://magnet.crowdcafe.com/) — Window management
-* Evernote
+* [Evernote](https://evernote.com/download)
 * Fantastical (App Store)
-* SelfControl — Limit website screen time
+* [SelfControl](https://selfcontrolapp.com/) — Limit website screen time
 * Things (App Store)
 
 ## Developer Tools
@@ -34,7 +34,7 @@
 * [Portacle](https://portacle.github.io/) — Common Lisp IDE
 * Postman
 * Python
-* TextMate
+* [TextMate](https://macromates.com/)
 * Transmit
 * VirtualBox
 * VS Code
@@ -48,7 +48,5 @@
 
 ## Work
 These will only be installed on my work account.
-### UMIACS
-* [Apache Directory Studio](https://directory.apache.org/studio/) — LDAP Browser
 * Slack
 * YubiKey Personalization Tool
