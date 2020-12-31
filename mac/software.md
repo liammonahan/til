@@ -15,8 +15,7 @@
 * Dropbox
 * Google Drive File Stream
 * Microsoft Office
-* Pixelmator (App Store)
-* reMarkable
+* Pixelmator Pro (App Store)
 * Spotify
 * Zoom
 
