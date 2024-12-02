@@ -1,4 +1,4 @@
-# Bundler
+# Relocking a bundler file
 
 ## Regenerating a Gemfile.lock file
 

@@ -10,6 +10,7 @@
 * [Linux](#linux)
 * [Mac](#mac)
 * [Python](#python)
+* [Ruby](#ruby)
 * [SQL](#sql)
 * [tmux](#tmux)
 * [Vim](#vim)
@@ -33,6 +34,10 @@
 - [Code Profiling in Python](python/code-profiling-in-python.md)
 - [Packaging Python Modules as RPM Files](python/packaging-python-modules-as-rpm-files.md)
 - [UML Diagrams for your Django Apps](python/uml-diagrams-django.md)
+
+### Ruby
+- [Relocking a bundler file](ruby/relocking-bundler.md) - 2024-12-01
+
 
 ### SQL
 
