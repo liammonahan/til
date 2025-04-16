@@ -3,40 +3,45 @@
 > Software I would typically install on a fresh copy of macOS.
 
 ## Core
-* [Arq](https://www.arqbackup.com/) — Backups
+* [Backblaze](https://www.backblaze.com/computer-backup/docs/install-the-backup-client-mac) — Backups
 * [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine)
 * [FastScripts](https://red-sweater.com/fastscripts/) — Bind automater/applescript actions to key commands
 * Firefox
-* [Flux](https://justgetflux.com/)
 
 ## Office / Media / Communication
-* Abobe Creative Suite
 * [Airflow](https://airflow.app/) — Share local content on Apple TV or Chromecast (NB: I have a paid licence)
 * Dropbox
 * Google Drive File Stream
+* Kindle
 * Microsoft Office
 * Pixelmator Pro (App Store)
 * Spotify
+* VLC
 * Zoom
 
 ## Productivity
 * [Anki](https://apps.ankiweb.net/) — Notecards
 * [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517) (App Store)
 * [BetterSnapTool](https://folivora.ai/bettersnaptool) — Window management
+* ChatGPT
+* Claude
 * [Evernote](https://evernote.com/download)
 * Fantastical (App Store)
+* [Notion](https://www.notion.com/)
+* Obsidian
 * [SelfControl](https://selfcontrolapp.com/) — Limit website screen time
 * Things (App Store)
 
 ## Developer Tools
 * Docker
 * [iTerm](https://www.iterm2.com/)
+* Jetbrains toolbox
+* JupyterLab
 * [Portacle](https://portacle.github.io/) — Common Lisp IDE
 * Postman
 * Python
 * [TextMate](https://macromates.com/)
 * Transmit
-* VirtualBox
 * VS Code
 
 ## Misc Utilities
