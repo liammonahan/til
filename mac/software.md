@@ -25,7 +25,6 @@
 * [BetterSnapTool](https://folivora.ai/bettersnaptool) — Window management
 * ChatGPT
 * Claude
-* [Evernote](https://evernote.com/download)
 * Fantastical (App Store)
 * [Notion](https://www.notion.com/)
 * Obsidian
