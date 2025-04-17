@@ -38,9 +38,9 @@
 * JupyterLab (install with uv tool add)
 * [Portacle](https://portacle.github.io/) — Common Lisp IDE
 * Postman
-* Python
 * [TextMate](https://macromates.com/)
 * Transmit
+* uv
 * VS Code
 
 ## Misc Utilities
