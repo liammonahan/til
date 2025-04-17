@@ -35,7 +35,7 @@
 * Docker
 * [iTerm](https://www.iterm2.com/)
 * Jetbrains toolbox
-* JupyterLab
+* JupyterLab (install with uv tool add)
 * [Portacle](https://portacle.github.io/) — Common Lisp IDE
 * Postman
 * Python
